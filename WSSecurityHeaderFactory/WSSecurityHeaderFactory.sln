@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSSecurityHeaderFactory", "WSSecurityHeaderFactory\WSSecurityHeaderFactory.csproj", "{9E370E07-0237-47DB-AAB5-A65BAC1AFE9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSSecurityHeaderTests", "WSSecurityHeaderTests\WSSecurityHeaderTests.csproj", "{54833B74-2917-4B85-8AB6-CBD52BADE8B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E370E07-0237-47DB-AAB5-A65BAC1AFE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E370E07-0237-47DB-AAB5-A65BAC1AFE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E370E07-0237-47DB-AAB5-A65BAC1AFE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E370E07-0237-47DB-AAB5-A65BAC1AFE9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54833B74-2917-4B85-8AB6-CBD52BADE8B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54833B74-2917-4B85-8AB6-CBD52BADE8B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54833B74-2917-4B85-8AB6-CBD52BADE8B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54833B74-2917-4B85-8AB6-CBD52BADE8B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF429929-9B1D-4DD8-BAF2-A633985D8090}
+	EndGlobalSection
+EndGlobal

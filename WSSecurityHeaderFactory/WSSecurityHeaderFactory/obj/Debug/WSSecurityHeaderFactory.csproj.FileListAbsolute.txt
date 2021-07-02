@@ -1,0 +1,7 @@
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\obj\Debug\WSSecurityHeaderFactory.csproj.CoreCompileInputs.cache
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\bin\Debug\WSSecurityHeaderFactory.dll
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\bin\Debug\WSSecurityHeaderFactory.pdb
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\bin\Debug\Microsoft.Web.Services3.dll
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\obj\Debug\WSSecurityHeaderFactory.csproj.CopyComplete
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\obj\Debug\WSSecurityHeaderFactory.dll
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderFactory\obj\Debug\WSSecurityHeaderFactory.pdb

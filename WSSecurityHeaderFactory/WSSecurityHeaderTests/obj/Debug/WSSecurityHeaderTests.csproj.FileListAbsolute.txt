@@ -1,0 +1,11 @@
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\obj\Debug\WSSecurityHeaderTests.csproj.CoreCompileInputs.cache
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\bin\Debug\WSSecurityHeaderTests.exe.config
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\bin\Debug\WSSecurityHeaderTests.exe
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\bin\Debug\WSSecurityHeaderTests.pdb
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\bin\Debug\WSSecurityHeaderFactory.dll
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\bin\Debug\Microsoft.Web.Services3.dll
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\bin\Debug\WSSecurityHeaderFactory.pdb
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\obj\Debug\WSSecurityHeaderTests.csprojAssemblyReference.cache
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\obj\Debug\WSSecurityHeaderTests.csproj.CopyComplete
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\obj\Debug\WSSecurityHeaderTests.exe
+C:\Users\fvsen\source\repos\WSSecurityHeaderFactory\WSSecurityHeaderTests\obj\Debug\WSSecurityHeaderTests.pdb
